@@ -11,7 +11,7 @@ export default class FreeParking extends React.Component {
                 <div className="icon">
                     <FontAwesomeIcon icon={faCar}/>
                 </div>
-                <div>Parking</div>
+                <div>Festival</div>
             </div>
         </div>);
     }

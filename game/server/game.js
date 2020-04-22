@@ -49,7 +49,7 @@ class GameService {
                     {
                         position: 12,
                         owner: "1",
-                        title: "Electric Company",
+                        title: "Powerbank voor 6 muntjes",
                         type: "electricity",
                         description: "If one Utility is owned, rent is 4 times the amount shown on dice. If both Utilities are owned rent is 10 times amount shown on dice.",
                         price: "$150"
@@ -58,7 +58,7 @@ class GameService {
                         position: 28,
                         owner: "1",
                         type: "water",
-                        title: "Water works",
+                        title: "Douches",
                         description: "If one Utility is owned, rent is 4 times the amount shown on dice. If both Utilities are owned rent is 10 times amount shown on dice.",
                         price: "$150"
                     }
@@ -67,7 +67,7 @@ class GameService {
                     {
                         position: 5,
                         owner: "1",
-                        title: "King's Cross Station",
+                        title: "Decibel Outdoor",
                         rent: {
                             "Rent": '$25',
                             "If 2 Stations are Owned": "$50",
@@ -79,7 +79,7 @@ class GameService {
                     {
                         position: 15,
                         owner: "1",
-                        title: "Marylebone Station",
+                        title: "Defqon 1",
                         rent: {
                             "Rent": '$25',
                             "If 2 Stations are Owned": "$50",
@@ -91,7 +91,7 @@ class GameService {
                     {
                         position: 25,
                         owner: "1",
-                        title: "Fenchurch St. Station",
+                        title: "Intents Festival",
                         rent: {
                             "Rent": '$25',
                             "If 2 Stations are Owned": "$50",
@@ -103,7 +103,7 @@ class GameService {
                     {
                         position: 35,
                         owner: "1",
-                        title: "Liverpool St. Station",
+                        title: "Rebirth Festival",
                         rent: {
                             "Rent": '$25',
                             "If 2 Stations are Owned": "$50",
@@ -117,7 +117,7 @@ class GameService {
                     {
                         position: 37,
                         owner: "1",
-                        title: "Park Lane",
+                        title: "Headhunterz",
                         color: "#1a2596",
                         rent: {
                             "Rent": "$35",
@@ -139,7 +139,7 @@ class GameService {
                     {
                         position: 39,
                         owner: "1",
-                        title: "MayFair",
+                        title: "Wildstylez",
                         color: "#1a2596",
                         rent: {
                             "Rent": "$50",
@@ -161,7 +161,7 @@ class GameService {
                     {
                         position: 31,
                         owner: "1",
-                        title: "Regent Street",
+                        title: "Beach stage",
                         color: "#008e04",
                         rent: {
                             "Rent": "$26",
@@ -183,7 +183,7 @@ class GameService {
                     {
                         position: 34,
                         owner: "1",
-                        title: "Bond Street",
+                        title: "Raw Indoor",
                         color: "#008e04",
                         rent: {
                             "Rent": "$28",
@@ -205,7 +205,7 @@ class GameService {
                     {
                         position: 32,
                         owner: "1",
-                        title: "Oxford Street",
+                        title: "Intents Main stage",
                         color: "#008e04",
                         rent: {
                             "Rent": "$26",
@@ -227,7 +227,7 @@ class GameService {
                     {
                         position: 26,
                         owner: "1",
-                        title: "Leicester Square",
+                        title: "Scantraxx",
                         color: "#d6d105",
                         rent: {
                             "Rent": "$22",
@@ -249,7 +249,7 @@ class GameService {
                     {
                         position: 27,
                         owner: "1",
-                        title: "Coventry Street",
+                        title: "DirtyWorks",
                         color: "#d6d105",
                         rent: {
                             "Rent": "$22",
@@ -271,7 +271,7 @@ class GameService {
                     {
                         position: 29,
                         owner: "1",
-                        title: "Picadilly",
+                        title: "Gearbox",
                         color: "#d6d105",
                         rent: {
                             "Rent": "$24",
@@ -293,7 +293,7 @@ class GameService {
                     {
                         position: 23,
                         owner: "1",
-                        title: "Fleet Street",
+                        title: "Blue Tent",
                         color: "#9f0108",
                         rent: {
                             "Rent": "$18",
@@ -315,7 +315,7 @@ class GameService {
                     {
                         position: 21,
                         owner: "1",
-                        title: "Strand",
+                        title: "Magenta Stage",
                         color: "#9f0108",
                         rent: {
                             "Rent": "$18",
@@ -337,7 +337,7 @@ class GameService {
                     {
                         position: 24,
                         owner: "1",
-                        title: "Trafalgar Square",
+                        title: "Red Stage",
                         color: "#9f0108",
                         rent: {
                             "Rent": "$20",
@@ -424,7 +424,7 @@ class GameService {
                     },
                     {
                         position: 13,
-                        title: "WhiteHall",
+                        title: "Relive",
                         color: "#930086",
                         owner: "1",
                         rent: {
@@ -446,7 +446,7 @@ class GameService {
                     },
                     {
                         position: 11,
-                        title: "Pall Mall",
+                        title: "Genesis",
                         color: "#930086",
                         owner: "1",
                         rent: {
@@ -468,7 +468,7 @@ class GameService {
                     },
                     {
                         position: 14,
-                        title: "Northumber land Avenue",
+                        title: "Reminder",
                         color: "#930086",
                         owner: "1",
                         rent: {
@@ -490,7 +490,7 @@ class GameService {
                     },
                     {
                         position: 6,
-                        title: "The Angel, Islington",
+                        title: "Huisje",
                         color: "#6ba9a5",
                         owner: "1",
                         rent: {
@@ -512,7 +512,7 @@ class GameService {
                     },
                     {
                         position: 8,
-                        title: "Euston Road",
+                        title: "Camping",
                         color: "#6ba9a5",
                         owner: "1",
                         rent: {
@@ -534,7 +534,7 @@ class GameService {
                     },
                     {
                         position: 9,
-                        title: "Pentonville Road",
+                        title: "CotTaGE",
                         color: "#6ba9a5",
                         owner: "1",
                         rent: {
@@ -556,7 +556,7 @@ class GameService {
                     },
                     {
                         position: 1,
-                        title: "Old Kent Road",
+                        title: "Roofvogelstraat",
                         color: "#614901",
                         owner: "1",
                         rent: {
@@ -578,7 +578,7 @@ class GameService {
                     },
                     {
                         position: 3,
-                        title: "WhiteChapel Road",
+                        title: "Kroonpark",
                         color: "#614901",
                         owner: "1",
                         rent: {
@@ -625,7 +625,7 @@ class GameService {
                         "Get out of jail free. This card may be kept until needed, traded or sold.",
                         "Go to Jail, Go directly to jail. Do not pass go. Do not collect $200",
                         "Advance to the next station. If UNOWNED, you may buy it from the bank. If OWNED, pay the owner twice the rent to which they are otherwise entitled",
-                        "Advance to MayFair",
+                        "Advance to Wildstylez",
                         "Advance to the next station. If UNOWNED, you may buy it from the bank. If OWNED, pay the owner twice the rent to which they are otherwise entitled",
                         "You have been elected chairman of the board, pay each player $50",
                         "Advance to Trafalgar Square. If you pass go collect $200",
@@ -636,7 +636,7 @@ class GameService {
                         "Advance to the nearest utility, if UNOWNED, you may buy it from the bank. If OWNED, roll the dice and pay the owner 10 times your roll",
                         "Make general repairs on all you property: For each house pay $25, for each hotel pay $100",
                         "Go back 3 spaces",
-                        "Advance to Pall Mall, if you pass go collect $200"
+                        "Advance to Genesis, if you pass go collect $200"
                     ]),
                     used: []
 
