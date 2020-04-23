@@ -11,7 +11,7 @@ export default class GoToJail extends React.Component {
                 <div className="icon">
                     <FontAwesomeIcon icon={faHandPaper}/>
                 </div>
-                <div>Jail</div>
+                <div>K-Hole</div>
             </div>
         </div>);
     }
